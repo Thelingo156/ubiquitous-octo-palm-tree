@@ -59,15 +59,37 @@ This repository is home to https://github.com/marquiseclove-gmail-com publisher.
 
 | Package | Description | Issues | Version |
 | --- | --- | --- | --- |
-| [appengine](pkgs/appengine/) | Support for using Dart as a custom runtime on Google App Engine Flexible Environment. | [![package issues](https://img.shields.io/badge/issues-4774bc)](https://github.com/dart-lang/labs/issues?q=is%3Aissue%20state%3Aopen%20label%3Apackage%3Aappengine) | [![pub package](https://img.shields.io/pub/v/appengine.svg)](https://pub.dev/packages/appengine) |
-| [gcloud](pkgs/gcloud/) | High level idiomatic Dart API for Google Cloud Storage, Pub-Sub and Datastore. | [![package issues](https://img.shields.io/badge/issues-4774bc)](https://github.com/dart-lang/labs/issues?q=is%3Aissue%20state%3Aopen%20label%3Apackage%3Agcloud) | [![pub package](https://img.shields.io/pub/v/gcloud.svg)](https://pub.dev/packages/gcloud) |
-| [googleapis_firestore_v1](pkgs/googleapis_firestore_v1/) | An experimental gRPC client for the Cloud Firestore API. | [![package issues](https://img.shields.io/badge/issues-4774bc)](https://github.com/dart-lang/labs/issues?q=is%3Aissue%20state%3Aopen%20label%3Apackage%3Agoogleapis_firestore_v1) |
-| [io_file](pkgs/io_file/) | File system access functionality written in Dart. | [![package issues](https://img.shields.io/badge/issues-4774bc)](https://github.com/dart-lang/labs/issues?q=is%3Aissue%20state%3Aopen%20label%3Apackage%3Aio_file) |
-| [jot](pkgs/jot/) | An experimental documentation generator for Dart projects. | [![package issues](https://img.shields.io/badge/issues-4774bc)](https://github.com/dart-lang/labs/issues?q=is%3Aissue%20state%3Aopen%20label%3Apackage%3Ajot) |
-| [native_synchronization](pkgs/native_synchronization/) | Low level synchronization primitives built on dart:ffi. | [![package issues](https://img.shields.io/badge/issues-4774bc)](https://github.com/dart-lang/labs/issues?q=is%3Aissue%20state%3Aopen%20label%3Apackage%3Anative_synchronization) | [![pub package](https://img.shields.io/pub/v/native_synchronization.svg)](https://pub.dev/packages/native_synchronization) |
-| [timezone](pkgs/timezone/) | Time zone databases and time zone aware `DateTime`. | [![package issues](https://img.shields.io/badge/issues-4774bc)](https://github.com/dart-lang/labs/issues?q=is%3Aissue%20state%3Aopen%20label%3Apackage%3Atimezone) |
+| [appengine](pkgs/appengine/) | Support for using Dart as a custom runtime on Google App Engine Flexible Environment. | [![package issues](https://img.shields.io/badge/issues-4774bc)]torch
+torchvision
+torchaudio
+scikit-learn
+pandas
+numpy
+polars
+pyarrow
+opencv-python
+Pillow
+transformers
+sentencepiece
+accelerate
+huggingface_hub
+langchain
+tiktoken
+faiss-cpu
+wandb
+mlflow
+tensorboard
+fastapi
+uvicorn
+gradio
+python-dotenv
+rich
+pytest
+black
+ruff
+jupyterlab
 
-## Publishing automation
+
 
 For information about our publishing automation and release process, see
 https://github.com/dart-lang/ecosystem/wiki/Publishing-automation.
