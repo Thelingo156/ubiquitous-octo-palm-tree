@@ -1,5 +1,5 @@
 # This workflow applies labels to pull requests based on the paths that are
-# modified in the pull request.
+#.[![Pull Request Labeler](https://github.com/Thelingo156/ubiquitous-octo-palm-tree/actions/workflows/pull_request_label.yml/badge.svg)](https://github.com/Thelingo156/ubiquitous-octo-palm-tree/actions/workflows/pull_request_label.yml) annotations 
 #
 # Edit `.github/labeler.yml` to configure labels. For more information, see
 # https://github.com/actions/labeler.
